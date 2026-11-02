@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Vezuve
+Description=Demarrage Vezuve OS - spirales et etoiles
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/vezuve
+ScriptFile=/usr/share/plymouth/themes/vezuve/vezuve.script
