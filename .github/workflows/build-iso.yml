@@ -22,7 +22,7 @@ jobs:
           variant: Kinoite
           iso_name: vezuve-os.iso
       - name: Upload ISO
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: vezuve-os-iso
           path: |
