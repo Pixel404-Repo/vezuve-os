@@ -9,9 +9,6 @@ modules:
     files:
       - source: system
         destination: /
-  - type: script
-    snippets:
-      - plymouth-set-default-theme vezuve
   - type: default-flatpaks
     configurations:
       - scope: system
@@ -26,9 +23,4 @@ modules:
     properties:
       NAME: Vezuve OS
       PRETTY_NAME: Vezuve OS
-  - type: kargs
-    kargs:
-      - quiet
-      - splash
-  - type: initramfs
   - type: signing
