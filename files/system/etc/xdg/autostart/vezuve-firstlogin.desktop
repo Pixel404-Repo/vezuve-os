@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Vezuve premier demarrage
+Exec=/bin/sh /usr/libexec/vezuve-firstlogin.sh
+NoDisplay=true
+X-KDE-autostart-phase=2
+OnlyShowIn=KDE;
