@@ -9,6 +9,10 @@ modules:
     files:
       - source: system
         destination: /
+  - type: fonts
+    fonts:
+      google-fonts:
+        - Plus Jakarta Sans
   - type: default-flatpaks
     configurations:
       - scope: system
