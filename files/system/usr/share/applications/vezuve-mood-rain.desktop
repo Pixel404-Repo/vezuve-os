@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Mood Lofi Rain
+Comment=Vezuve : couleurs, fond d'ecran et ambiance Lofi Rain
+Exec=sh /usr/libexec/vezuve-mood.sh rain
+Icon=preferences-desktop-theme
+Categories=Settings;DesktopSettings;
+Keywords=vezuve;mood;theme;ambiance;

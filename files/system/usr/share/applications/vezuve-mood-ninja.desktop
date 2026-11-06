@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Mood Anime Ninja
+Comment=Vezuve : couleurs, fond d'ecran et ambiance Anime Ninja
+Exec=sh /usr/libexec/vezuve-mood.sh ninja
+Icon=preferences-desktop-theme
+Categories=Settings;DesktopSettings;
+Keywords=vezuve;mood;theme;ambiance;

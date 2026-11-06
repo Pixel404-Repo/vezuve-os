@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Couper l'ambiance
+Comment=Vezuve : arreter la musique d'ambiance du Mood
+Exec=sh /usr/libexec/vezuve-mood.sh stop
+Icon=audio-volume-muted
+Categories=Settings;DesktopSettings;
+Keywords=vezuve;mood;theme;ambiance;
