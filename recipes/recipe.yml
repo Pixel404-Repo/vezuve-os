@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/recipe-v1.json
 name: vezuve-os
 description: Vezuve OS, le systeme pour joueurs et streamers signe Pixel 404.
-base-image: ghcr.io/ublue-os/bazzite
+base-image: ghcr.io/ublue-os/bazzite-nvidia-open
 image-version: stable
 modules:
   - type: files
