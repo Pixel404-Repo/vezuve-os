@@ -9,6 +9,9 @@ modules:
     files:
       - source: system
         destination: /
+  - type: rpm-ostree
+    install:
+      - python3-pyside6      
   - type: fonts
     fonts:
       google-fonts:
@@ -23,6 +26,7 @@ modules:
           - com.obsproject.Studio
           - org.mozilla.firefox
           - com.github.tchx84.Flatseal
+          - org.openrgb.OpenRGB
   - type: os-release
     properties:
       NAME: Vezuve OS
