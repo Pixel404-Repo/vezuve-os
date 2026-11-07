@@ -6,3 +6,4 @@ Exec=sh /usr/libexec/vezuve-mood.sh rain
 Icon=preferences-desktop-theme
 Categories=Settings;DesktopSettings;
 Keywords=vezuve;mood;theme;ambiance;
+NoDisplay=true

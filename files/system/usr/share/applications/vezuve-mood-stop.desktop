@@ -6,3 +6,4 @@ Exec=sh /usr/libexec/vezuve-mood.sh stop
 Icon=audio-volume-muted
 Categories=Settings;DesktopSettings;
 Keywords=vezuve;mood;theme;ambiance;
+NoDisplay=true

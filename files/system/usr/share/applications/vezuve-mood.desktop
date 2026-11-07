@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Vezuve Mood
+GenericName=Thèmes et ambiance
+Comment=Couleurs, fond d'écran, éclairage RGB et ambiance musicale du bureau
+Exec=python3 /usr/share/vezuve/apps/mood/main.py
+Icon=/usr/share/vezuve/apps/mood/icons/app.svg
+Categories=Settings;DesktopSettings;
+Keywords=vezuve;mood;theme;rgb;fond;ecran;ambiance;musique;
+StartupWMClass=vezuve-mood
